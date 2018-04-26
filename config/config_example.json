@@ -1,0 +1,14 @@
+{
+   "DebugEnabled":  false,
+   "SecurityToken": "aabbcc112233",
+   "TLS": {
+    "CertFile":    "path_to_cert_file",
+    "KeyFile":     "path_to_key_file"
+   },
+   "Slack": {
+       "Channel":   "#channel_name",
+       "UserName":  "user_name",
+       "EmojiIcon": ":ghost:",
+       "Webhook":   "https://hooks.slack.com/services/xxxxxx"
+   }
+}

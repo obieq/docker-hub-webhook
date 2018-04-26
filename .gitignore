@@ -1,0 +1,5 @@
+
+\.vscode/settings\.json
+/tmp
+docker-hub-webhook
+config/config.json
